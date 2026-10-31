@@ -10,7 +10,7 @@
 
 ## Live Link
 
-**Deployment URL: https://bdf-lab-01.vercel.app
+**Deployment URL: https://backend-development-fundamentals-lab-01-f9w7.onrender.com
 
 ## Objective
 
