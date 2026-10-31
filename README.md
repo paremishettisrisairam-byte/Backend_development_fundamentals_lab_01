@@ -2,9 +2,9 @@
 
 ## Student Details
 
-- **Name:** [Your name]
-- **Registration Number:** [Your registration number]
-- **Section:** CSE-GEN-AI 2C 112
+- **Name:** [Paremishettisrisairam]
+- **Registration Number:** [252U1R9119]
+- **Section:** CSE-GEN-AI 2B 111
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** 01
 
